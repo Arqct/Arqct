@@ -9,3 +9,6 @@ and LAUNCH YOUR GAME!,
 
 https://www.mediafire.com/file/aajffa4mnh5bjpm/Saktru.jar/file (download for free version)
 
+
+
+                Saktru Client release 1.0 will be out in 8.9 2025
